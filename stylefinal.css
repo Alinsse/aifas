@@ -1,0 +1,32 @@
+.final{
+    width: 1050px;
+    height: 275px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.055);
+    margin-left: 0;
+    margin-top: 75px
+}
+
+.viagem{
+    width: 310px;
+    height:275px;
+    background-color: rgb(161, 180, 163);
+    display: flex;
+}
+
+.contabilidade{
+    width:310px;
+    height:275px;
+    background-color: rgb(59, 57, 201);
+    display: flex;
+}
+
+.assessoria{
+    width: 310px;
+    height:275px;
+    background-color: rgb(170, 122, 122);
+    display: flex;
+}

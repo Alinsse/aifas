@@ -1,0 +1,57 @@
+.menuinicial{
+    width: 1050px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: black;
+    margin-left: 0;
+    margin-top: -750px;
+}
+
+
+
+.azul{
+    width: 170px;
+    height: 50px;
+    background-color: blue;
+    display: flex;
+    
+   
+}
+
+.amarelo{
+    width: 170px;
+    height: 50px;
+    background-color:yellow;
+    display: flex;
+}
+
+.roxo{
+    width: 170px;
+    height: 50px;
+    background-color:blueviolet;
+    display: flex;
+}
+
+.laranja{
+    width: 170px;
+    height: 50px;
+    background-color:orange;
+    display: flex;
+}
+
+.verde{
+    width: 170px;
+    height: 50px;
+    background-color:green;
+    display: flex;
+}
+
+.cinza{
+    width: 170px;
+    height: 50px;
+    background-color:gray;
+    display: flex;
+}

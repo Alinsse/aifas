@@ -1,0 +1,99 @@
+.parceria{
+    width: 1050px;
+    height: 135px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+    margin-left: 0;
+    margin-top: 30px
+}
+
+
+.fast{
+    width: 190px;
+    height:135px;
+    border: 1px solid rgb(201, 199, 199);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.sao{
+    width: 190px;
+    height:135px;
+    border: 1px solid rgb(201, 199, 199);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.hot{
+    width: 190px;
+    height:135px;
+    border: 1px solid rgb(201, 199, 199);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.saraiva{
+    width: 190px;
+    height:135px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.microlins{
+    width: 190px;
+    height:135px;
+    border: 1px solid rgb(201, 199, 199);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.fas{
+    width: 150px;
+    height:115px;
+    justify-content: center;
+    padding: 7px 5px 5px 5px;
+    display: flex;
+}
+
+.s{
+    width: 150px;
+    height:115px;
+    justify-content: center;
+    padding: 7px 5px 5px 5px;
+    display: flex;
+}
+
+.ht{
+    width: 150px;
+    height:115px;
+    justify-content: center;
+    padding: 7px 5px 5px 5px;
+    display: flex;
+}
+
+.sara{
+    width: 190px;
+    height:139px;
+    justify-content: center;
+    padding: -1 5px 5px 5px;
+    margin-top: -2px;
+    display: flex;
+}
+
+.micro{
+    width: 150px;
+    height:115px;
+    justify-content: center;
+    padding: 7px 5px 5px 5px;
+    display: flex;
+}
